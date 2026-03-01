@@ -1,3 +1,10 @@
 .vscode
 *.yaml
 .venv
+
+.claude/
+.devcontainer/
+openspec/
+.env
+.envrc-example
+.mcp.json
